@@ -5,6 +5,12 @@ This repository contains a detailed exploratory data analysis (EDA) of New York 
 
 ---
 
+🖥️Read the full article on Medium:
+
+👉https://medium.com/@sercanteyhani/from-subways-to-support-using-mta-data-to-drive-cancer-awareness-eda-project-4057fa048de6
+
+---
+
 ## 🚆 Project Overview
 
 This project explores the ridership data from NYC’s subway system during December 2023. The main goals include:
